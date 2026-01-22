@@ -16,3 +16,9 @@ dist/
 # Executables
 *.exe
 *.app
+
+# Project data (large)
+data/
+
+# macOS (anywhere)
+**/.DS_Store
