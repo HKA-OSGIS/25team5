@@ -152,7 +152,7 @@ Open-source geospatial technologies
 
 
 
-## License
+License
 
-- **Code**: MIT License  
-- **Data**: OpenStreetMap data © OpenStreetMap contributors, licensed under the Open Database License (ODbL)
+- Code: MIT License  
+- Data: OpenStreetMap data © OpenStreetMap contributors, licensed under the Open Database License (ODbL)
